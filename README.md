@@ -5,7 +5,7 @@ ejercicios de listas, mapas, funciones, clase y herencias
 
 - [ ] [ Mapas ](https://dartpad.dev/1d4c1640f67caa65048897cd9d23fb4b)
 
-- [ ]  [Funciones Basicas   ](https://dartpad.dev/9820acffd68c1d244224efdff245559d)
+- [ ]  [Funciones Basicas](https://dartpad.dev/9820acffd68c1d244224efdff245559d)
 
 - [ ] [ clase ](https://dartpad.dartlang.org/476530aceef41d227639989dc5f6c822)
  
